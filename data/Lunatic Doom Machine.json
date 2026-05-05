@@ -1,0 +1,18 @@
+{
+    "id": 15625052,
+    "name": "Lunatic Doom Machine",
+    "author": "guillester",
+    "creators": ["guillester, Andromeda"],
+    "verifier": "LexTank",
+    "verification": "https://youtu.be/SxUv4wWsnLc?si=Rt_weu_qZsbvaV3y",
+    "percentToQualify": "100",
+    "password": "167298",
+    "records": [
+        {
+        "user": "Liz",
+            "link": "",
+            "percent": 100,
+            "hz": 240
+        }
+    ]
+}
