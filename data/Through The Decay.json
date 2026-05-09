@@ -3,10 +3,16 @@
     "name": "Through The Decay",
     "author": "spark",
     "creators": ["spark"],
-    "verifier": "Glob Glorp",
+    "verifier": "Vertix",
     "verification": "https://youtu.be/djPTTc2vTd4?si=zHNkQAmB7BHmPxTQ",
     "percentToQualify": "100",
     "password": "Free Copy",
     "records": [
+        {
+            "user": "Glob Glorp",
+            "link": "https://www.youtube.com/watch?v=AmB97NQD9tM",
+            "percent": "100",
+            "hz": "60"
+        }
     ]
 }
