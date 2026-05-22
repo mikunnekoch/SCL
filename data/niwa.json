@@ -1,0 +1,30 @@
+{
+    "id": 87425029,
+    "name": "niwa",
+    "author": "Teno",
+    "creators": ["Teno", "Mrgm", "ar12 & more"],
+    "verifier": "Exotic",
+    "verification": "https://youtu.be/BCh3s2Wia_U?si=uT7y_mibP3j9ZaU6",
+    "percentToQualify": "100",
+    "password": "Free Copy",
+    "records": [
+        {
+            "user": "playboicatboy",
+            "link": "https://youtu.be/vTbKvOdH9RU?is=2RIcsS2ERawx35oo",
+            "percent": 100,
+            "hz": 100
+        },
+        {
+            "user": "Liz",
+            "link": "https://youtu.be/yxCeZm1O2_4",
+            "percent": 100,
+            "hz": 480
+        },
+        {
+            "user": "rthomp.",
+            "link": "https://www.youtube.com/watch?v=M4UuGhOgxeA",
+            "percent": 100,
+            "hz": 180
+        }
+    ]
+}

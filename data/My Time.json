@@ -1,0 +1,18 @@
+{
+    "id": 82595578,
+    "name": "My Time",
+    "author": "Blueskii",
+    "creators": ["Blueskii & more"],
+    "verifier": "Liz",
+    "verification": "https://youtu.be/BDyyV_V3Tes",
+    "percentToQualify": "100",
+    "password": "Free Copy",
+    "records": [
+        {
+            "user": "Mato",
+            "link": "",
+            "percent": 100,
+            "hz": 60
+        }
+    ]
+}

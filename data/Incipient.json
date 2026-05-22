@@ -1,0 +1,18 @@
+{
+    "id": 32688321,
+    "name": "Incipient",
+    "author": "Jenkins",
+    "creators": ["Jenkins"],
+    "verifier": "Liz",
+    "verification": "https://youtu.be/7tGH8Pgrg60?si=-JMSPzy_j9mEl2Ze",
+    "percentToQualify": "100",
+    "password": "420420",
+    "records": [
+        {
+            "user": "rthomp.",
+            "link": "https://www.youtube.com/watch?v=SJFbsDJVDXI&list=PL0cWxostc5n6nlaEocNyVTGNDEvio3jyR&index=12",
+            "percent": 100,
+            "hz": 60
+        }
+    ]
+}

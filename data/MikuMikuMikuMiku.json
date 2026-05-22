@@ -1,0 +1,18 @@
+{
+    "id": 82824219,
+    "name": "MikuMikuMikuMiku",
+    "author": "OddMod",
+    "creators": ["OddMod"],
+    "verifier": "Liz",
+    "verification": "https://youtu.be/Yif5CSFpsSU",
+    "percentToQualify": "100",
+    "password": "Free Copy",
+    "records": [
+        {
+            "user": "Mato",
+            "link": "",
+            "percent": 100,
+            "hz": 60
+        }
+    ]
+}

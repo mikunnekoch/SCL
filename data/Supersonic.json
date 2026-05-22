@@ -1,0 +1,30 @@
+{
+    "id": 4706930,
+    "name": "Supersonic",
+    "author": "ZenthicAlpha",
+    "creators": ["ZenthicAlpha & more"],
+    "verifier": "Mato",
+    "verification": "https://youtu.be/KUItyH1A6s4?si=gFsygDFvl8Zl4MTQ",
+    "percentToQualify": "100",
+    "password": "Free Copy",
+    "records": [
+        {
+            "user": "Angel",
+            "link": "",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "Leidro",
+            "link": "https://youtu.be/-NyYSzhAJEs?si=Ks1tSAOR-qjW1_Hg",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "Glob Glorp",
+            "link": "",
+            "percent": 100,
+            "hz": 60
+        }
+    ]
+}

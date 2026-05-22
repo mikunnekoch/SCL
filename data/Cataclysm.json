@@ -1,0 +1,42 @@
+{
+    "id": 3979721,
+    "name": "Cataclysm",
+    "author": "GgB0y",
+    "creators": ["GgB0y"],
+    "verifier": "LexTank",
+    "verification": "https://youtu.be/4ZVH43qadfs?si=gvYYfTihBPG4syWj",
+    "percentToQualify": "100",
+    "password": "666777",
+    "records": [
+        {
+            "user": "Liz",
+            "link": "https://youtu.be/6VTXIIB1DvQ?si=9oUFwFpgnoL7OEcu",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "Leidro",
+            "link": "https://youtu.be/Cvz1suZGzdI?si=-W_zm63k8-8uCPYv",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "OverConfident",
+            "link": "https://youtu.be/LR-V0ZAh-O8?si=e-Hsek_f6JP3Y1vs",
+            "percent": 100,
+            "hz": 480
+        },
+        {
+            "user": "Exotic",
+            "link": "https://medal.tv/games/geometry-dash/clips/lXYkwAxhCaEUDv0x1?invite=cr-MSx6OWYsMjc0NjczOTM2",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "Angel",
+            "link": "",
+            "percent": 100,
+            "hz": 240
+        }
+    ]
+}

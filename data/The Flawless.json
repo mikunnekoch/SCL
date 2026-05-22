@@ -1,0 +1,18 @@
+{
+    "id": 21280210,
+    "name": "The Flawless",
+    "author": "fin",
+    "creators": ["fin", "atheoz", "xevenfurious & more"],
+    "verifier": "LexTank",
+    "verification": "https://youtu.be/hwzgxH2K1k8?si=-UsQbs2pLeOdzh_x",
+    "percentToQualify": "100",
+    "password": "Free Copy",
+    "records": [
+        {
+            "user": "Liz",
+            "link": "https://youtu.be/bTo09kETmr8?si=ACagxQUkO_iqeRet",
+            "percent": 100,
+            "hz": 144
+        }
+    ]
+}

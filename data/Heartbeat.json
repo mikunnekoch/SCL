@@ -1,0 +1,18 @@
+{
+    "id": 20321297,
+    "name": "Heartbeat",
+    "author": "KrmaL",
+    "creators": ["ImAnubis", "KrmaL", "Blaireswip"],
+    "verifier": "Leidro",
+    "verification": "https://youtu.be/jc8Q82jNMcM?si=R7O34JEQzLKDrXrq",
+    "percentToQualify": "70",
+    "password": "000003",
+    "records": [
+        {
+            "user": "Exotic",
+            "link": "https://youtu.be/LqaLUxFrKqw?si=L2oN4TwgFR51W3QA",
+            "percent": 100,
+            "hz": 240
+        }
+    ]
+}

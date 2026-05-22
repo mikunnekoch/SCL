@@ -1,0 +1,24 @@
+{
+    "id": 9145341,
+    "name": "8o",
+    "author": "Zobros",
+    "creators": ["Zobros", "Etzer"],
+    "verifier": "Liz",
+    "verification": "https://youtu.be/z3uLdJDJdzA",
+    "percentToQualify": "100",
+    "password": "147596",
+    "records": [
+        {
+            "user": "Leidro",
+            "link": "https://youtu.be/ZAjTR0s4e10?si=0-kfySItNzrbB2N1",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "Mato",
+            "link": "",
+            "percent": 100,
+            "hz": 60
+        }
+    ]
+}

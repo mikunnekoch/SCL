@@ -1,0 +1,42 @@
+{
+    "id": 10565740,
+    "name": "Bloodbath",
+    "author": "Riot",
+    "creators": ["Riot", "Michigun", "Crack & more"],
+    "verifier": "Liz",
+    "verification": "https://youtu.be/zzx9JhcIrQ0?si=MYqLZsca3iXX-XoE",
+    "percentToQualify": "70",
+    "password": "No Copy",
+    "records": [
+        {
+        "user": "Leidro",
+            "link": "https://youtu.be/XGIccAg_olM?si=2etXvXt4CfysyBd_",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+        "user": "Sneapky",
+            "link": "https://youtu.be/Y4tWT-ODRJ8?si=zBV6wkwkAnGi3G7S",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+        "user": "Angel",
+            "link": "",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+        "user": "Exotic",
+            "link": "https://medal.tv/games/geometry-dash/clips/mdjyk5rovWLPxX4eC?invite=cr-MSxNZVEsMjc0NjczOTM2&v=158",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+        "user": "rthomp.",
+            "link": "https://www.youtube.com/watch?v=SZ6ACgreGeA&list=PL0cWxostc5n6nlaEocNyVTGNDEvio3jyR",
+            "percent": 100,
+            "hz": 240
+        }
+    ]
+}

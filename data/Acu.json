@@ -1,0 +1,48 @@
+{
+    "id": 61079355,
+    "name": "Acu",
+    "author": "neigefeu",
+    "creators": ["neigefeu"],
+    "verifier": "Liz",
+    "verification": "https://www.youtube.com/watch?v=_XKKemgWmkQ",
+    "percentToQualify": "100",
+    "password": "Free Copy",
+    "records": [
+        {
+            "user": "Mato",
+            "link": "",
+            "percent": 100,
+            "hz": 60
+        },
+        {
+            "user": "Angel",
+            "link": "https://medal.tv/games/geometry-dash/clips/myt4wlCJJ_dh5XoTz?invite=cr-MSxxUHEsMjE2ODk3OTkx",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "Exotic",
+            "link": "https://youtu.be/FwLH8dLERgk?si=F0S08t6_fyIUnBlA",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "Vertix",
+            "link": "https://www.youtube.com/shorts/VNX0vZSVg2I",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "OverConfident",
+            "link": "https://www.youtube.com/watch?v=WimrbJNSwQw",
+            "percent": 100,
+            "hz": 480
+        },
+        {
+            "user": "rthomp.",
+            "link": "https://www.youtube.com/watch?v=QeaVG3KygbA&list=PL0cWxostc5n6nlaEocNyVTGNDEvio3jyR&index=15",
+            "percent": 100,
+            "hz": 240
+        }
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "id": 25610878,
+    "name": "aftermath",
+    "author": "Exenity",
+    "creators": ["knobbelboy", "Exenity", "Squizz & more"],
+    "verifier": "LexTank",
+    "verification": "https://youtu.be/QnmyA3rduIs?si=iOaKR63_OKfytCGd",
+    "percentToQualify": "58",
+    "password": "020815",
+    "records": [
+        {
+        "user": "Liz",
+            "link": "https://youtu.be/Y4jzHNKzHFM",
+            "percent": 100,
+            "hz": 240
+        }
+    ]
+}

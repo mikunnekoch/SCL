@@ -1,0 +1,24 @@
+{
+    "id": 2241592,
+    "name": "Necropolis",
+    "author": "IIINePtunEIII",
+    "creators": ["IIINePtunEIII"],
+    "verifier": "Liz",
+    "verification": "https://youtu.be/UYvRlUjVUFw",
+    "percentToQualify": "100",
+    "password": "No Copy",
+    "records": [
+        {
+            "user": "Leidro",
+            "link": "https://youtu.be/LuLc_85q0uk?si=SapMRQiHSgtyEprZ",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "Mato",
+            "link": "",
+            "percent": 100,
+            "hz": 60
+        }
+    ]
+}

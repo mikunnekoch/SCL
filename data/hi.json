@@ -1,0 +1,18 @@
+{
+    "id": 25147297,
+    "name": "hi",
+    "author": "KrmaL",
+    "creators": ["KrmaL"],
+    "verifier": "Mato",
+    "verification": "https://youtu.be/8GTI0ieygMY?si=GsvSytx7zlvcRez_",
+    "percentToQualify": "100",
+    "password": "000005",
+    "records": [
+        {
+            "user": "Leidro",
+            "link": "https://youtu.be/YHM6yhkoxrA?si=KaZFXgFZXIeARNb3",
+            "percent": 100,
+            "hz": 240
+        }
+    ]
+}

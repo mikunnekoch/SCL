@@ -1,0 +1,18 @@
+{
+    "id": 814678,
+    "name": "ICE Carbon Diablo X",
+    "author": "roadbose",
+    "creators": ["roadbose"],
+    "verifier": "Liz",
+    "verification": "https://youtu.be/T_JQz4VSh4k",
+    "percentToQualify": "100",
+    "password": "No Copy",
+    "records": [
+        {
+            "user": "Sneapky",
+            "link": "https://youtu.be/WiBTORt3dfU?si=_XzAFHvftaE2C7zB",
+            "percent": 100,
+            "hz": 360
+        }
+    ]
+}

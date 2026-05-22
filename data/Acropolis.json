@@ -1,0 +1,24 @@
+{
+    "id": 5155022,
+    "name": "Acropolis",
+    "author": "Zobros",
+    "creators": ["Zobros"],
+    "verifier": "Liz",
+    "verification": "https://youtu.be/vFZkL5aZ0k0?si=iXGc6q3Wd5VRQYJ2",
+    "percentToQualify": "100",
+    "password": "124574",
+    "records": [
+        {
+            "user": "Mato",
+            "link": "",
+            "percent": 100,
+            "hz": 60
+        },
+        {
+            "user": "Exotic",
+            "link": "https://medal.tv/games/geometry-dash/clips/lWIGuwRZFUyTrXVJ1?invite=cr-MSwybzksMjc0NjczOTM2",
+            "percent": 100,
+            "hz": 240
+        }
+    ]
+}

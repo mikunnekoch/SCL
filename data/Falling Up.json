@@ -1,0 +1,24 @@
+{
+    "id": 24301797,
+    "name": "Falling Up",
+    "author": "KrmaL",
+    "creators": ["KrmaL"],
+    "verifier": "Exotic",
+    "verification": "https://youtu.be/ZGaQ79BaJmU",
+    "percentToQualify": "100",
+    "password": "000004",
+    "records": [
+        {
+            "user": "Angel",
+            "link": "https://medal.tv/games/geometry-dash/clips/mmIjRsMixEySSQcJn?invite=cr-MSwyaVAsMjc0NjczOTM2",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "rthomp.",
+            "link": "https://www.youtube.com/watch?v=_qE74Ili4qo",
+            "percent": 100,
+            "hz": 360
+        }
+    ]
+}

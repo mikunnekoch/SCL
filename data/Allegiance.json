@@ -1,0 +1,24 @@
+{
+    "id": 20761188,
+    "name": "Allegiance",
+    "author": "nikroplays",
+    "creators": ["nikroplays"],
+    "verifier": "Liz",
+    "verification": "https://youtu.be/CqTKB_MJOGc?si=Ugbln9PuVcyLPGG9",
+    "percentToQualify": "100",
+    "password": "Free Copy",
+    "records": [
+        {
+            "user": "Mato",
+            "link": "",
+            "percent": 100,
+            "hz": 60
+        },
+        {
+            "user": "LexTank",
+            "link": "https://youtu.be/ACXpJ8lMcC8?si=Qj-NjFBaLRC3TEPW",
+            "percent": 100,
+            "hz": 480
+        }
+    ]
+}

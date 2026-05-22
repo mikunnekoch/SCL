@@ -1,0 +1,18 @@
+{
+    "id": 26681070,
+    "name": "Sonic Wave",
+    "author": "Sunix",
+    "creators": ["Cyclic"],
+    "verifier": "Leidro",
+    "verification": "https://youtu.be/IrXxNTyEVVE?si=BpgsQYZ9Td2rhOOq",
+    "percentToQualify": "65",
+    "password": "112516",
+    "records": [
+        {
+            "user": "playboicatboy",
+            "link": "https://www.youtube.com/watch?v=TF7W0otIXQk",
+            "percent": 100,
+            "hz": 240
+        }
+    ]
+}
